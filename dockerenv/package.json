@@ -1,0 +1,11 @@
+{
+  "name": "dockerenv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-pty": "^1.0.0",
+    "socket.io": "^4.7.5"
+  }
+}
